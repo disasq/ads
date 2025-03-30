@@ -117,7 +117,7 @@ public class Main {
         System.out.println("--- Task 7: Reverse Array ---");
         int len3 = in.nextInt();
         int[] arr3 = new int[len3];
-        for (int i = 0; i < len3; i++) {
+        for (int i = 0; i < len3; i++) { 
             arr3[i] = in.nextInt();
         }
         System.out.print("Reversed: ");
